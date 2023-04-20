@@ -1,4 +1,4 @@
-# Python_diwali_sales_analysis
+# Python_Diwali_Sales_Analysis
 With help of python we Perform:
 1. Data Cleaning and Data Manipulation
 2. Perform EDA using Pandas,Matplotlib and Seaborn libraries.
